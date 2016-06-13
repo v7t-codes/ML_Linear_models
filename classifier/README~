@@ -1,0 +1,1 @@
+A simple image classifier which uses pasterised pickled images to train, validate and test over the respective datasets using scikit  
