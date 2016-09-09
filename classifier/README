@@ -1,2 +1,2 @@
-A simple image classifier which uses pasterised pickled images to train, validate and test over the respective datasets using scikit.
+A simple image classifier which uses rasterized images to train, validate and test over the respective datasets using scikit.
 Parameters can be tuned as desired.
